@@ -3,8 +3,11 @@ package ga;
 
 import org.jfree.util.ArrayUtilities;
 
+import java.security.InvalidAlgorithmParameterException;
 import java.util.Arrays;
 import java.util.stream.IntStream;
+
+import static java.lang.System.exit;
 
 public abstract class IntVectorIndividual<P extends Problem, I extends IntVectorIndividual> extends Individual<P, I> {
     //TODO this class might require the definition of additional methods and/or attributes
@@ -23,7 +26,14 @@ public abstract class IntVectorIndividual<P extends Problem, I extends IntVector
 
             genome[i] = r;
         }
-        System.out.println(Arrays.toString(genome));
+    /*    for (int i = 0; i <genome.length - 1; i++) {
+            for (int j = i + 1; j < genome.length; j++) {
+                if (genome[i] == genome[j]) {
+                    System.out.println("GOTCHA BITCH");
+                }
+            }
+        }
+*/
     }
 
     public IntVectorIndividual(IntVectorIndividual<P, I> original) {
@@ -51,6 +61,10 @@ public abstract class IntVectorIndividual<P extends Problem, I extends IntVector
 
     public void setGene(int index, int newValue) {
         genome[index] = newValue;
+    }
+
+    public int[] getGenome() {
+        return genome;
     }
 
     @Override
