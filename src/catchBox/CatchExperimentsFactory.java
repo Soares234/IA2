@@ -52,8 +52,8 @@ public class CatchExperimentsFactory extends ExperimentsFactory {
             case "pmx":
                 recombination = new RecombinationPartialMapped<>(recombinationProbability);
                 break;
-            case "TODO1":
-                recombination = new Recombination3<>(recombinationProbability);
+            case "Order1":
+                recombination = new Order1<>(recombinationProbability);
                 break;
             case "CX":
                 recombination = new CXRecomb<>(recombinationProbability);
