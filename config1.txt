@@ -1,30 +1,30 @@
 Runs: 30
 
-Population size: 50, 100,500,1000
+Population size: 10000
 
-Max generations: 100, 500, 1000
+Max generations: 1000
 
 //--------------------------------
 
 Selection: tournament
 
-Tournament size: 4
+Tournament size: 4,8, 16
 
 //--------------------------------
 
-Recombination: CX, pmx, Order1
+Recombination:Order1
 
-Recombination probability: 0.7, 0.8
-
-//--------------------------------
-
-Mutation: insert
-
-Mutation probability: 0.3, 0.5
+Recombination probability: 0.7, 0.8 , 0.9
 
 //--------------------------------
 
-Problem file: ./DataSets/puzzle_6.txt
+Mutation: insert, sm, rm 
+
+Mutation probability: 0.3, 0.5, 0.8
+
+//--------------------------------
+
+Problem file: ./DataSets/puzzle_8.txt
 
 //--------------------------------
 

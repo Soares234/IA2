@@ -119,3 +119,44 @@ Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:
 400	1000	Tournament(4)	Recomb method2	0.7	Insert	0.5		92.0
 400	1000	Tournament(4)	Recomb method2	0.8	Insert	0.3		90.0
 400	1000	Tournament(4)	Recomb method2	0.8	Insert	0.5		88.0
+50	100	Tournament(4)	Recomb method2	0.7	Insert	0.3		117.0
+50	100	Tournament(4)	Recomb method2	0.7	Insert	0.5		125.0
+50	100	Tournament(4)	Recomb method2	0.8	Insert	0.3		133.0
+50	100	Tournament(4)	Recomb method2	0.8	Insert	0.5		127.0
+50	100	Tournament(4)	PMX	0.7	Insert	0.3		125.0
+50	100	Tournament(4)	PMX	0.7	Insert	0.5		129.0
+50	100	Tournament(4)	PMX	0.8	Insert	0.3		115.0
+50	100	Tournament(4)	PMX	0.8	Insert	0.5		117.0
+50	100	Tournament(4)	Order1	0.7	Insert	0.3		129.0
+50	100	Tournament(4)	Order1	0.7	Insert	0.5		135.0
+50	100	Tournament(4)	Order1	0.8	Insert	0.3		133.0
+50	100	Tournament(4)	Order1	0.8	Insert	0.5		131.0
+50	100	Tournament(4)	Recomb method2	0.7	Insert	0.3		117.0
+50	100	Tournament(4)	Recomb method2	0.7	Insert	0.5		125.0
+50	100	Tournament(4)	Recomb method2	0.8	Insert	0.3		133.0
+50	100	Tournament(4)	Recomb method2	0.8	Insert	0.5		127.0
+50	100	Tournament(4)	PMX	0.7	Insert	0.3		125.0
+50	100	Tournament(4)	PMX	0.7	Insert	0.5		129.0
+50	100	Tournament(4)	PMX	0.8	Insert	0.3		115.0
+50	100	Tournament(4)	PMX	0.8	Insert	0.5		117.0
+50	100	Tournament(4)	Order1	0.7	Insert	0.3		117.0
+50	100	Tournament(4)	Order1	0.7	Insert	0.5		135.0
+50	100	Tournament(4)	Order1	0.8	Insert	0.3		141.0
+50	100	Tournament(4)	Order1	0.8	Insert	0.5		135.0
+50	500	Tournament(4)	Recomb method2	0.7	Insert	0.3		105.0
+50	500	Tournament(4)	Recomb method2	0.7	Insert	0.5		99.0
+50	500	Tournament(4)	Recomb method2	0.8	Insert	0.3		99.0
+50	500	Tournament(4)	Recomb method2	0.8	Insert	0.5		103.0
+50	500	Tournament(4)	PMX	0.7	Insert	0.3		95.0
+50	500	Tournament(4)	PMX	0.7	Insert	0.5		99.0
+50	500	Tournament(4)	PMX	0.8	Insert	0.3		97.0
+50	500	Tournament(4)	PMX	0.8	Insert	0.5		97.0
+50	500	Tournament(4)	Order1	0.7	Insert	0.3		105.0
+50	500	Tournament(4)	Order1	0.7	Insert	0.5		99.0
+50	500	Tournament(4)	Order1	0.8	Insert	0.3		107.0
+50	500	Tournament(4)	Order1	0.8	Insert	0.5		99.0
+50	1000	Tournament(4)	Recomb method2	0.7	Insert	0.3		105.0
+50	1000	Tournament(4)	Recomb method2	0.7	Insert	0.5		99.0
+50	1000	Tournament(4)	Recomb method2	0.8	Insert	0.3		99.0
+50	1000	Tournament(4)	Recomb method2	0.8	Insert	0.5		101.0
+50	1000	Tournament(4)	PMX	0.7	Insert	0.3		95.0
