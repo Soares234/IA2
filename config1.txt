@@ -12,13 +12,13 @@ Tournament size: 4,8, 16
 
 //--------------------------------
 
-Recombination:Order1
+Recombination:Order1, CX,pmx
 
-Recombination probability: 0.7, 0.8 , 0.9
+Recombination probability: 0.7
 
 //--------------------------------
 
-Mutation: insert, sm, rm 
+Mutation: rm 
 
 Mutation probability: 0.3, 0.5, 0.8
 
