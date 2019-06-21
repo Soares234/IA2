@@ -6,22 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac04bfec-7f60-42eb-9fae-b904b9702de2" name="Default" comment="Config correto">
-      <change afterPath="$PROJECT_DIR$/src/ga/geneticOperators/ReverseMutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ga/geneticOperators/ScrambleMutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProjCatch/catchBox/CatchExperimentsFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjCatch/catchBox/CatchExperimentsFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProjCatch/ga/geneticOperators/Mutation2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProjCatch/ga/geneticOperators/Mutation3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProjCatch/gui/PanelParameters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjCatch/gui/PanelParameters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/catchBox/CatchExperimentsFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/catchBox/CatchExperimentsFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ga/geneticOperators/Mutation2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ga/geneticOperators/Mutation3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ga/geneticOperators/Order1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ga/geneticOperators/Order1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gui/PanelParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/PanelParameters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/statistic_average_fitness.xls" beforeDir="false" afterPath="$PROJECT_DIR$/statistic_average_fitness.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/statistic_best_per_experiment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/statistic_best_per_experiment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/statistic_best_per_experiment_fitness.xls" beforeDir="false" afterPath="$PROJECT_DIR$/statistic_best_per_experiment_fitness.xls" afterDir="false" />
+    <list default="true" id="ac04bfec-7f60-42eb-9fae-b904b9702de2" name="Default" comment="Config ayampedo">
+      <change beforePath="$PROJECT_DIR$/config1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/config1.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,7 +38,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ga/geneticOperators/Mutation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
@@ -110,11 +96,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/catchBox/CatchExperimentsFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1088">
-              <caret line="79" selection-start-line="79" selection-end-line="79" />
+            <state relative-caret-position="629">
+              <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
             </state>
           </provider>
         </entry>
@@ -374,61 +360,18 @@
             <path>
               <item name="IA" type="58d84e3e:PackageViewProjectNode" />
               <item name="ProjCatch" type="616d4139:PackageViewModuleNode" />
-              <item name="agentSearch" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="IA" type="58d84e3e:PackageViewProjectNode" />
-              <item name="ProjCatch" type="616d4139:PackageViewModuleNode" />
-              <item name="catchBox" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="IA" type="58d84e3e:PackageViewProjectNode" />
-              <item name="ProjCatch" type="616d4139:PackageViewModuleNode" />
               <item name="ga" type="1f31426a:PackageElementNode" />
             </path>
             <path>
               <item name="IA" type="58d84e3e:PackageViewProjectNode" />
               <item name="ProjCatch" type="616d4139:PackageViewModuleNode" />
-              <item name="ga" type="1f31426a:PackageElementNode" />
-              <item name="geneticOperators" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="IA" type="58d84e3e:PackageViewProjectNode" />
-              <item name="ProjCatch" type="616d4139:PackageViewModuleNode" />
               <item name="gui" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="IA" type="58d84e3e:PackageViewProjectNode" />
-              <item name="ProjCatch" type="616d4139:PackageViewModuleNode" />
-              <item name="gui" type="1f31426a:PackageElementNode" />
-              <item name="MainFrame.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="IA" type="58d84e3e:PackageViewProjectNode" />
               <item name="ProjCatch" type="616d4139:PackageViewModuleNode" />
               <item name="gui" type="1f31426a:PackageElementNode" />
               <item name="PanelParameters.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="IA" type="58d84e3e:PackageViewProjectNode" />
-              <item name="ProjCatch" type="616d4139:PackageViewModuleNode" />
-              <item name="gui" type="1f31426a:PackageElementNode" />
-              <item name="PanelSimulation.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="IA" type="58d84e3e:PackageViewProjectNode" />
-              <item name="ProjCatch" type="616d4139:PackageViewModuleNode" />
-              <item name="search" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="IA" type="58d84e3e:PackageViewProjectNode" />
-              <item name="ProjCatch" type="616d4139:PackageViewModuleNode" />
-              <item name="statisticsGA" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="IA" type="58d84e3e:PackageViewProjectNode" />
-              <item name="ProjCatch" type="616d4139:PackageViewModuleNode" />
-              <item name="utils" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -598,7 +541,7 @@
       <workItem from="1560864725834" duration="6602000" />
       <workItem from="1560940597974" duration="3207000" />
       <workItem from="1560949348200" duration="3690000" />
-      <workItem from="1561114788489" duration="1327000" />
+      <workItem from="1561114788489" duration="2751000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Third Commit&quot;">
       <created>1556552752417</created>
@@ -649,11 +592,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560865598122</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Config ayampedo">
+      <created>1561118356724</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1561118356724</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95766000" />
+    <option name="totallyTimeSpent" value="97190000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -666,7 +616,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12153518" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -678,7 +627,7 @@
       <window_info id="UI Designer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32839838" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49253732" weight="0.22968581" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49253732" visible="true" weight="0.22968581" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4968017" weight="0.3672806" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -752,7 +701,8 @@
     <MESSAGE value="Acabei recomb 1" />
     <MESSAGE value="Recombs feitos ATLAST" />
     <MESSAGE value="Config correto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Config correto" />
+    <MESSAGE value="Config ayampedo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Config ayampedo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1123,13 +1073,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/catchBox/CatchExperimentsFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="79" selection-start-line="79" selection-end-line="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/concurrent/ThreadLocalRandom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4811">
@@ -1166,6 +1109,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/catchBox/CatchExperimentsFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
         </state>
       </provider>
     </entry>
